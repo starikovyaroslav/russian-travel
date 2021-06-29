@@ -14,4 +14,4 @@
 * Адаптивная верстка
 * Верстка по макету Figma 
 
-[Ссылка на проект]:https://starikovyaroslav.github.io/russian-travel/
+[Ссылка на проект]:(https://starikovyaroslav.github.io/russian-travel/)
