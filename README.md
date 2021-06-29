@@ -13,3 +13,5 @@
 * Использована система контроля версий Git 
 * Адаптивная верстка
 * Верстка по макету Figma 
+
+[https://starikovyaroslav.github.io/russian-travel/](Ссылка на проект)
